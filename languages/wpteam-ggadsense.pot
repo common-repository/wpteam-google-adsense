@@ -1,0 +1,294 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-13 09:13+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: admin/class-wpteam-ggadsense-admin.php:201
+#: src/admin/class-wpteam-ggadsense-admin.php:201
+msgid "Google Adsense Header"
+msgstr ""
+
+#: admin/class-wpteam-ggadsense-admin.php:205
+#: src/admin/class-wpteam-ggadsense-admin.php:205
+msgid "Google Adsense Common Header Script"
+msgstr ""
+
+#: admin/class-wpteam-ggadsense-admin.php:212
+#: src/admin/class-wpteam-ggadsense-admin.php:212
+msgid "Common Settings"
+msgstr ""
+
+#: admin/class-wpteam-ggadsense-admin.php:216
+#: src/admin/class-wpteam-ggadsense-admin.php:216
+msgid "Post Settings"
+msgstr ""
+
+#: admin/class-wpteam-ggadsense-admin.php:220
+#: src/admin/class-wpteam-ggadsense-admin.php:220
+msgid "Page Settings"
+msgstr ""
+
+#: admin/class-wpteam-ggadsense-admin.php:225
+#: src/admin/class-wpteam-ggadsense-admin.php:225
+msgid "Common Settings Description"
+msgstr ""
+
+#: admin/class-wpteam-ggadsense-admin.php:226
+#: src/admin/class-wpteam-ggadsense-admin.php:226
+msgid "Post Settings Description"
+msgstr ""
+
+#: admin/class-wpteam-ggadsense-admin.php:227
+#: src/admin/class-wpteam-ggadsense-admin.php:227
+msgid "Page Settings Description"
+msgstr ""
+
+#: admin/class-wpteam-ggadsense-admin.php:235
+#: src/admin/class-wpteam-ggadsense-admin.php:235
+msgid "Product Settings"
+msgstr ""
+
+#: admin/class-wpteam-ggadsense-admin.php:239
+#: src/admin/class-wpteam-ggadsense-admin.php:239
+msgid "Cart Settings"
+msgstr ""
+
+#: admin/class-wpteam-ggadsense-admin.php:243
+#: src/admin/class-wpteam-ggadsense-admin.php:243
+msgid "Checkout Settings"
+msgstr ""
+
+#: admin/class-wpteam-ggadsense-admin.php:248
+#: src/admin/class-wpteam-ggadsense-admin.php:248
+msgid "Product Settings Description"
+msgstr ""
+
+#: admin/class-wpteam-ggadsense-admin.php:249
+#: src/admin/class-wpteam-ggadsense-admin.php:249
+msgid "Cart Settings Description"
+msgstr ""
+
+#: admin/class-wpteam-ggadsense-admin.php:250
+#: src/admin/class-wpteam-ggadsense-admin.php:250
+msgid "Checkout Settings Description"
+msgstr ""
+
+#: admin/class-wpteam-ggadsense-admin.php:254
+#: src/admin/class-wpteam-ggadsense-admin.php:254
+msgid "Google Adsense Header Script"
+msgstr ""
+
+#: admin/class-wpteam-ggadsense-admin.php:256
+#: admin/class-wpteam-ggadsense-admin.php:260
+#: admin/class-wpteam-ggadsense-admin.php:264
+#: admin/class-wpteam-ggadsense-admin.php:272
+#: admin/class-wpteam-ggadsense-admin.php:276
+#: admin/class-wpteam-ggadsense-admin.php:280
+#: src/admin/class-wpteam-ggadsense-admin.php:256
+#: src/admin/class-wpteam-ggadsense-admin.php:260
+#: src/admin/class-wpteam-ggadsense-admin.php:264
+#: src/admin/class-wpteam-ggadsense-admin.php:272
+#: src/admin/class-wpteam-ggadsense-admin.php:276
+#: src/admin/class-wpteam-ggadsense-admin.php:280
+#, php-format
+msgid "Use <i>%s</i>"
+msgstr ""
+
+#: admin/class-wpteam-ggadsense-admin.php:256
+#: admin/class-wpteam-ggadsense-admin.php:258
+#: admin/class-wpteam-ggadsense-admin.php:259
+#: admin/class-wpteam-ggadsense-admin.php:268
+#: admin/class-wpteam-ggadsense-admin.php:269
+#: src/admin/class-wpteam-ggadsense-admin.php:256
+#: src/admin/class-wpteam-ggadsense-admin.php:258
+#: src/admin/class-wpteam-ggadsense-admin.php:259
+#: src/admin/class-wpteam-ggadsense-admin.php:268
+#: src/admin/class-wpteam-ggadsense-admin.php:269
+msgid "Common Ads"
+msgstr ""
+
+#: admin/class-wpteam-ggadsense-admin.php:257
+#: admin/class-wpteam-ggadsense-admin.php:261
+#: admin/class-wpteam-ggadsense-admin.php:265
+#: admin/class-wpteam-ggadsense-admin.php:267
+#: admin/class-wpteam-ggadsense-admin.php:273
+#: admin/class-wpteam-ggadsense-admin.php:277
+#: admin/class-wpteam-ggadsense-admin.php:281
+#: src/admin/class-wpteam-ggadsense-admin.php:257
+#: src/admin/class-wpteam-ggadsense-admin.php:261
+#: src/admin/class-wpteam-ggadsense-admin.php:265
+#: src/admin/class-wpteam-ggadsense-admin.php:267
+#: src/admin/class-wpteam-ggadsense-admin.php:273
+#: src/admin/class-wpteam-ggadsense-admin.php:277
+#: src/admin/class-wpteam-ggadsense-admin.php:281
+msgid "Enable ads"
+msgstr ""
+
+#: admin/class-wpteam-ggadsense-admin.php:258
+#: admin/class-wpteam-ggadsense-admin.php:262
+#: admin/class-wpteam-ggadsense-admin.php:268
+#: admin/class-wpteam-ggadsense-admin.php:274
+#: admin/class-wpteam-ggadsense-admin.php:278
+#: admin/class-wpteam-ggadsense-admin.php:282
+#: src/admin/class-wpteam-ggadsense-admin.php:258
+#: src/admin/class-wpteam-ggadsense-admin.php:262
+#: src/admin/class-wpteam-ggadsense-admin.php:268
+#: src/admin/class-wpteam-ggadsense-admin.php:274
+#: src/admin/class-wpteam-ggadsense-admin.php:278
+#: src/admin/class-wpteam-ggadsense-admin.php:282
+#, php-format
+msgid "Ads Before Content of %s"
+msgstr ""
+
+#: admin/class-wpteam-ggadsense-admin.php:259
+#: admin/class-wpteam-ggadsense-admin.php:263
+#: admin/class-wpteam-ggadsense-admin.php:269
+#: admin/class-wpteam-ggadsense-admin.php:275
+#: admin/class-wpteam-ggadsense-admin.php:279
+#: admin/class-wpteam-ggadsense-admin.php:283
+#: src/admin/class-wpteam-ggadsense-admin.php:259
+#: src/admin/class-wpteam-ggadsense-admin.php:263
+#: src/admin/class-wpteam-ggadsense-admin.php:269
+#: src/admin/class-wpteam-ggadsense-admin.php:275
+#: src/admin/class-wpteam-ggadsense-admin.php:279
+#: src/admin/class-wpteam-ggadsense-admin.php:283
+#, php-format
+msgid "Ads After Content of %s"
+msgstr ""
+
+#: admin/class-wpteam-ggadsense-admin.php:260
+#: admin/class-wpteam-ggadsense-admin.php:262
+#: admin/class-wpteam-ggadsense-admin.php:263
+#: src/admin/class-wpteam-ggadsense-admin.php:260
+#: src/admin/class-wpteam-ggadsense-admin.php:262
+#: src/admin/class-wpteam-ggadsense-admin.php:263
+msgid "Post Ads"
+msgstr ""
+
+#: admin/class-wpteam-ggadsense-admin.php:264
+#: admin/class-wpteam-ggadsense-admin.php:266
+#: src/admin/class-wpteam-ggadsense-admin.php:264
+#: src/admin/class-wpteam-ggadsense-admin.php:266
+msgid "Page Ads"
+msgstr ""
+
+#: admin/class-wpteam-ggadsense-admin.php:266
+#: src/admin/class-wpteam-ggadsense-admin.php:266
+#, php-format
+msgid "Use <i>%s</i> on Home Page"
+msgstr ""
+
+#: admin/class-wpteam-ggadsense-admin.php:272
+#: admin/class-wpteam-ggadsense-admin.php:274
+#: admin/class-wpteam-ggadsense-admin.php:275
+#: src/admin/class-wpteam-ggadsense-admin.php:272
+#: src/admin/class-wpteam-ggadsense-admin.php:274
+#: src/admin/class-wpteam-ggadsense-admin.php:275
+msgid "Product Ads"
+msgstr ""
+
+#: admin/class-wpteam-ggadsense-admin.php:276
+#: admin/class-wpteam-ggadsense-admin.php:278
+#: admin/class-wpteam-ggadsense-admin.php:279
+#: src/admin/class-wpteam-ggadsense-admin.php:276
+#: src/admin/class-wpteam-ggadsense-admin.php:278
+#: src/admin/class-wpteam-ggadsense-admin.php:279
+msgid "Cart Ads"
+msgstr ""
+
+#: admin/class-wpteam-ggadsense-admin.php:280
+#: admin/class-wpteam-ggadsense-admin.php:282
+#: admin/class-wpteam-ggadsense-admin.php:283
+#: src/admin/class-wpteam-ggadsense-admin.php:280
+#: src/admin/class-wpteam-ggadsense-admin.php:282
+#: src/admin/class-wpteam-ggadsense-admin.php:283
+msgid "Checkout Ads"
+msgstr ""
+
+#: admin/class-wpteam-ggadsense-admin.php:314
+#: src/admin/class-wpteam-ggadsense-admin.php:314
+msgid "WPteam Google Adsense Settings"
+msgstr ""
+
+#: admin/class-wpteam-ggadsense-admin.php:314
+#: src/admin/class-wpteam-ggadsense-admin.php:314
+msgctxt "Plugin Menu"
+msgid "WPteam Google Adsense"
+msgstr ""
+
+#: admin/partials/wpteam-ggadsense-admin-display.php:24
+#: src/admin/partials/wpteam-ggadsense-admin-display.php:24
+msgid "General"
+msgstr ""
+
+#: admin/partials/wpteam-ggadsense-admin-display.php:28
+#: src/admin/partials/wpteam-ggadsense-admin-display.php:28
+msgid "Common Setup"
+msgstr ""
+
+#: admin/partials/wpteam-ggadsense-admin-display.php:33
+#: src/admin/partials/wpteam-ggadsense-admin-display.php:33
+msgid "WooCommerce Setup"
+msgstr ""
+
+#: admin/partials/wpteam-ggadsense-admin-display.php:66
+#: src/admin/partials/wpteam-ggadsense-admin-display.php:66
+msgid "Google Adsense Ads script"
+msgstr ""
+
+#: admin/partials/wpteam-ggadsense-admin-display.php:67
+#: src/admin/partials/wpteam-ggadsense-admin-display.php:67
+#, php-format
+msgid ""
+"Follow by the header script, you can copy ads script below <i>%s</i> to the "
+"end and paste to the wish position"
+msgstr ""
+
+#: admin/partials/wpteam-ggadsense-admin-display.php:67
+#: src/admin/partials/wpteam-ggadsense-admin-display.php:67
+msgctxt "Comment Part of ads"
+msgid "<!-- Ads name -->"
+msgstr ""
+
+#: admin/partials/wpteam-ggadsense-admin-display.php:69
+#: src/admin/partials/wpteam-ggadsense-admin-display.php:69
+msgid "Google Adsense Ads Header script"
+msgstr ""
+
+#: admin/partials/wpteam-ggadsense-admin-display.php:70
+#: src/admin/partials/wpteam-ggadsense-admin-display.php:70
+msgid ""
+"On Google Adsense Ads , click \"Copy\" then find the Header script to copy "
+"paste as image"
+msgstr ""
+
+#. Name of the plugin
+msgid "WPteam Google Adsense"
+msgstr ""
+
+#. Description of the plugin
+msgid "Provide Google Adsense on Selected Posttype."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://wpteam.kr/wpteam-ggadsense/"
+msgstr ""
+
+#. Author of the plugin
+msgid "WPteam"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://wpteam.kr/"
+msgstr ""

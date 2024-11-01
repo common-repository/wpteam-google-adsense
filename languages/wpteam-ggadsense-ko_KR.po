@@ -1,0 +1,293 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPteam Google Adsense\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-20 03:24+0000\n"
+"PO-Revision-Date: 2018-04-20 03:24+0000\n"
+"Last-Translator: admin <mene078@gmail.com>\n"
+"Language-Team: Korean\n"
+"Language: ko-KR\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. URI of the plugin
+msgid "http://wpteam.kr/wpteam-ggadsense/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://wpteam.kr/"
+msgstr ""
+
+#: admin/class-wpteam-ggadsense-admin.php:201
+#: src/admin/class-wpteam-ggadsense-admin.php:201
+msgid "Google Adsense Header"
+msgstr "구글 에드센스 해더"
+
+#: admin/class-wpteam-ggadsense-admin.php:205
+#: src/admin/class-wpteam-ggadsense-admin.php:205
+msgid "Google Adsense Common Header Script"
+msgstr "구글 에드센스 기본 헤더 스크립트"
+
+#: admin/class-wpteam-ggadsense-admin.php:212
+#: src/admin/class-wpteam-ggadsense-admin.php:212
+msgid "Common Settings"
+msgstr "기본 세팅"
+
+#: admin/class-wpteam-ggadsense-admin.php:216
+#: src/admin/class-wpteam-ggadsense-admin.php:216
+msgid "Post Settings"
+msgstr "글 세팅"
+
+#: admin/class-wpteam-ggadsense-admin.php:220
+#: src/admin/class-wpteam-ggadsense-admin.php:220
+msgid "Page Settings"
+msgstr "페이지 세팅"
+
+#: admin/class-wpteam-ggadsense-admin.php:225
+#: src/admin/class-wpteam-ggadsense-admin.php:225
+msgid "Common Settings Description"
+msgstr "기본 세팅 설명"
+
+#: admin/class-wpteam-ggadsense-admin.php:226
+#: src/admin/class-wpteam-ggadsense-admin.php:226
+msgid "Post Settings Description"
+msgstr "글 세팅 설명"
+
+#: admin/class-wpteam-ggadsense-admin.php:227
+#: src/admin/class-wpteam-ggadsense-admin.php:227
+msgid "Page Settings Description"
+msgstr "페이지 세팅 설명"
+
+#: admin/class-wpteam-ggadsense-admin.php:235
+#: src/admin/class-wpteam-ggadsense-admin.php:235
+msgid "Product Settings"
+msgstr "상품 세팅"
+
+#: admin/class-wpteam-ggadsense-admin.php:239
+#: src/admin/class-wpteam-ggadsense-admin.php:239
+msgid "Cart Settings"
+msgstr "카트 세팅"
+
+#: admin/class-wpteam-ggadsense-admin.php:243
+#: src/admin/class-wpteam-ggadsense-admin.php:243
+msgid "Checkout Settings"
+msgstr "체크아웃 세팅"
+
+#: admin/class-wpteam-ggadsense-admin.php:248
+#: src/admin/class-wpteam-ggadsense-admin.php:248
+msgid "Product Settings Description"
+msgstr "상품 세팅 설명"
+
+#: admin/class-wpteam-ggadsense-admin.php:249
+#: src/admin/class-wpteam-ggadsense-admin.php:249
+msgid "Cart Settings Description"
+msgstr "카트 세팅 설명"
+
+#: admin/class-wpteam-ggadsense-admin.php:250
+#: src/admin/class-wpteam-ggadsense-admin.php:250
+msgid "Checkout Settings Description"
+msgstr "체크아웃 세팅 설명"
+
+#: admin/class-wpteam-ggadsense-admin.php:254
+#: src/admin/class-wpteam-ggadsense-admin.php:254
+msgid "Google Adsense Header Script"
+msgstr "구글 에드센스 헤더 스크립트"
+
+#: admin/class-wpteam-ggadsense-admin.php:256
+#: admin/class-wpteam-ggadsense-admin.php:260
+#: admin/class-wpteam-ggadsense-admin.php:264
+#: admin/class-wpteam-ggadsense-admin.php:272
+#: admin/class-wpteam-ggadsense-admin.php:276
+#: admin/class-wpteam-ggadsense-admin.php:280
+#: src/admin/class-wpteam-ggadsense-admin.php:256
+#: src/admin/class-wpteam-ggadsense-admin.php:260
+#: src/admin/class-wpteam-ggadsense-admin.php:264
+#: src/admin/class-wpteam-ggadsense-admin.php:272
+#: src/admin/class-wpteam-ggadsense-admin.php:276
+#: src/admin/class-wpteam-ggadsense-admin.php:280
+#, php-format
+msgid "Use <i>%s</i>"
+msgstr "<i>%s</i>"
+
+#: admin/class-wpteam-ggadsense-admin.php:256
+#: admin/class-wpteam-ggadsense-admin.php:258
+#: admin/class-wpteam-ggadsense-admin.php:259
+#: admin/class-wpteam-ggadsense-admin.php:268
+#: admin/class-wpteam-ggadsense-admin.php:269
+#: src/admin/class-wpteam-ggadsense-admin.php:256
+#: src/admin/class-wpteam-ggadsense-admin.php:258
+#: src/admin/class-wpteam-ggadsense-admin.php:259
+#: src/admin/class-wpteam-ggadsense-admin.php:268
+#: src/admin/class-wpteam-ggadsense-admin.php:269
+msgid "Common Ads"
+msgstr "기본 Ads"
+
+#: admin/class-wpteam-ggadsense-admin.php:257
+#: admin/class-wpteam-ggadsense-admin.php:261
+#: admin/class-wpteam-ggadsense-admin.php:265
+#: admin/class-wpteam-ggadsense-admin.php:267
+#: admin/class-wpteam-ggadsense-admin.php:273
+#: admin/class-wpteam-ggadsense-admin.php:277
+#: admin/class-wpteam-ggadsense-admin.php:281
+#: src/admin/class-wpteam-ggadsense-admin.php:257
+#: src/admin/class-wpteam-ggadsense-admin.php:261
+#: src/admin/class-wpteam-ggadsense-admin.php:265
+#: src/admin/class-wpteam-ggadsense-admin.php:267
+#: src/admin/class-wpteam-ggadsense-admin.php:273
+#: src/admin/class-wpteam-ggadsense-admin.php:277
+#: src/admin/class-wpteam-ggadsense-admin.php:281
+msgid "Enable ads"
+msgstr "사용"
+
+#: admin/class-wpteam-ggadsense-admin.php:258
+#: admin/class-wpteam-ggadsense-admin.php:262
+#: admin/class-wpteam-ggadsense-admin.php:268
+#: admin/class-wpteam-ggadsense-admin.php:274
+#: admin/class-wpteam-ggadsense-admin.php:278
+#: admin/class-wpteam-ggadsense-admin.php:282
+#: src/admin/class-wpteam-ggadsense-admin.php:258
+#: src/admin/class-wpteam-ggadsense-admin.php:262
+#: src/admin/class-wpteam-ggadsense-admin.php:268
+#: src/admin/class-wpteam-ggadsense-admin.php:274
+#: src/admin/class-wpteam-ggadsense-admin.php:278
+#: src/admin/class-wpteam-ggadsense-admin.php:282
+#, php-format
+msgid "Ads Before Content of %s"
+msgstr "%s 본문 앞에 나오는 스크립트"
+
+#: admin/class-wpteam-ggadsense-admin.php:259
+#: admin/class-wpteam-ggadsense-admin.php:263
+#: admin/class-wpteam-ggadsense-admin.php:269
+#: admin/class-wpteam-ggadsense-admin.php:275
+#: admin/class-wpteam-ggadsense-admin.php:279
+#: admin/class-wpteam-ggadsense-admin.php:283
+#: src/admin/class-wpteam-ggadsense-admin.php:259
+#: src/admin/class-wpteam-ggadsense-admin.php:263
+#: src/admin/class-wpteam-ggadsense-admin.php:269
+#: src/admin/class-wpteam-ggadsense-admin.php:275
+#: src/admin/class-wpteam-ggadsense-admin.php:279
+#: src/admin/class-wpteam-ggadsense-admin.php:283
+#, php-format
+msgid "Ads After Content of %s"
+msgstr "%s 본문 뒤에 나오는"
+
+#: admin/class-wpteam-ggadsense-admin.php:260
+#: admin/class-wpteam-ggadsense-admin.php:262
+#: admin/class-wpteam-ggadsense-admin.php:263
+#: src/admin/class-wpteam-ggadsense-admin.php:260
+#: src/admin/class-wpteam-ggadsense-admin.php:262
+#: src/admin/class-wpteam-ggadsense-admin.php:263
+msgid "Post Ads"
+msgstr "글 Ads"
+
+#: admin/class-wpteam-ggadsense-admin.php:264
+#: admin/class-wpteam-ggadsense-admin.php:266
+#: src/admin/class-wpteam-ggadsense-admin.php:264
+#: src/admin/class-wpteam-ggadsense-admin.php:266
+msgid "Page Ads"
+msgstr "페이지 Ads"
+
+#: admin/class-wpteam-ggadsense-admin.php:266
+#: src/admin/class-wpteam-ggadsense-admin.php:266
+#, php-format
+msgid "Use <i>%s</i> on Home Page"
+msgstr "홈 페이지에서 <i>%s</i> 사용"
+
+#: admin/class-wpteam-ggadsense-admin.php:272
+#: admin/class-wpteam-ggadsense-admin.php:274
+#: admin/class-wpteam-ggadsense-admin.php:275
+#: src/admin/class-wpteam-ggadsense-admin.php:272
+#: src/admin/class-wpteam-ggadsense-admin.php:274
+#: src/admin/class-wpteam-ggadsense-admin.php:275
+msgid "Product Ads"
+msgstr "상품 Ads"
+
+#: admin/class-wpteam-ggadsense-admin.php:276
+#: admin/class-wpteam-ggadsense-admin.php:278
+#: admin/class-wpteam-ggadsense-admin.php:279
+#: src/admin/class-wpteam-ggadsense-admin.php:276
+#: src/admin/class-wpteam-ggadsense-admin.php:278
+#: src/admin/class-wpteam-ggadsense-admin.php:279
+msgid "Cart Ads"
+msgstr "카트 Ads"
+
+#: admin/class-wpteam-ggadsense-admin.php:280
+#: admin/class-wpteam-ggadsense-admin.php:282
+#: admin/class-wpteam-ggadsense-admin.php:283
+#: src/admin/class-wpteam-ggadsense-admin.php:280
+#: src/admin/class-wpteam-ggadsense-admin.php:282
+#: src/admin/class-wpteam-ggadsense-admin.php:283
+msgid "Checkout Ads"
+msgstr "체크아웃 Ads"
+
+#: admin/class-wpteam-ggadsense-admin.php:314
+#: src/admin/class-wpteam-ggadsense-admin.php:314
+msgid "WPteam Google Adsense Settings"
+msgstr "WP팀 구글 에드센스 설정"
+
+#: admin/class-wpteam-ggadsense-admin.php:314
+#: src/admin/class-wpteam-ggadsense-admin.php:314
+msgctxt "Plugin Menu"
+msgid "WPteam Google Adsense"
+msgstr "WP팀 구글 에드센스"
+
+#: admin/partials/wpteam-ggadsense-admin-display.php:24
+#: src/admin/partials/wpteam-ggadsense-admin-display.php:24
+msgid "General"
+msgstr "일반"
+
+#: admin/partials/wpteam-ggadsense-admin-display.php:28
+#: src/admin/partials/wpteam-ggadsense-admin-display.php:28
+msgid "Common Setup"
+msgstr "기본 셋업"
+
+#: admin/partials/wpteam-ggadsense-admin-display.php:33
+#: src/admin/partials/wpteam-ggadsense-admin-display.php:33
+msgid "WooCommerce Setup"
+msgstr "우커머스 세팅"
+
+#: admin/partials/wpteam-ggadsense-admin-display.php:66
+#: src/admin/partials/wpteam-ggadsense-admin-display.php:66
+msgid "Google Adsense Ads script"
+msgstr "구글 에드센스 코드"
+
+#: admin/partials/wpteam-ggadsense-admin-display.php:67
+#: src/admin/partials/wpteam-ggadsense-admin-display.php:67
+#, php-format
+msgid ""
+"Follow by the header script, you can copy ads script below <i>%s</i> to the "
+"end and paste to the wish position"
+msgstr "헤더 스크립트 아래에 시작되는 실제 광고 코드를 원하는 위치에 넣어주세요. <i>%s</i> 아래의 코드를 넣으면 됩니다."
+
+#: admin/partials/wpteam-ggadsense-admin-display.php:67
+#: src/admin/partials/wpteam-ggadsense-admin-display.php:67
+msgctxt "Comment Part of ads"
+msgid "<!-- Ads name -->"
+msgstr "<!-- 광고 명 -->"
+
+#: admin/partials/wpteam-ggadsense-admin-display.php:69
+#: src/admin/partials/wpteam-ggadsense-admin-display.php:69
+msgid "Google Adsense Ads Header script"
+msgstr "구글 에드센스 해더 코드"
+
+#: admin/partials/wpteam-ggadsense-admin-display.php:70
+#: src/admin/partials/wpteam-ggadsense-admin-display.php:70
+msgid ""
+"On Google Adsense Ads , click \"Copy\" then find the Header script to copy "
+"paste as image"
+msgstr "애드센스에서 광고 복사하기를 누르고 위쪽에 나오는 헤더 스크립트를 넣어주세요."
+
+#. Name of the plugin
+msgid "WPteam Google Adsense"
+msgstr "WP팀 구글 애드센스"
+
+#. Description of the plugin
+msgid "Provide Google Adsense on Selected Posttype."
+msgstr "선택된 포스트 타입에서 구글 애드센스를 제공합니다."
+
+#. Author of the plugin
+msgid "WPteam"
+msgstr "WPteam"

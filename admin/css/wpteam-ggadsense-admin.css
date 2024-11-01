@@ -1,0 +1,55 @@
+/**!
+* All of the CSS for your admin-specific functionality should be
+* included in this file.
+*/
+.wpteam-ggadsense-column-section .wpteam-ggadsense-column .wpteam-ggadsense-column-block, .wpteam-ggadsense-column-section .wpteam-ggadsense-column .wpteam-ggadsense-light-column-block, .wpteam-ggadsense-column-section .wpteam-ggadsense-column .wpteam-ggadsense-dark-column-block {
+  border: 0;
+  border-radius: 3px;
+  box-sizing: border-box;
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.2);
+  margin: 0 0 1em;
+  padding: 20px; }
+
+.wpteam-ggadsense-nav-tab-wrapper .nav-tab {
+  border: 0;
+  background: none; }
+  .wpteam-ggadsense-nav-tab-wrapper .nav-tab.nav-tab-active {
+    border-bottom: 4px solid #54687d; }
+  .wpteam-ggadsense-nav-tab-wrapper .nav-tab:focus, .wpteam-ggadsense-nav-tab-wrapper .nav-tab:hover {
+    background: #fafafa; }
+
+.wpteam-ggadsense-banner-section {
+  margin: 0 0 1em 0;
+  padding: 2em 0 1em; }
+
+.wpteam-ggadsense-column-section {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 0 0 1em 0;
+  padding: 2em 0 1em; }
+  .wpteam-ggadsense-column-section .wpteam-ggadsense-column {
+    flex: 1;
+    width: 100%;
+    padding: 0 .5em; }
+    .wpteam-ggadsense-column-section .wpteam-ggadsense-column .wpteam-ggadsense-column-block {
+      background: #fff; }
+    .wpteam-ggadsense-column-section .wpteam-ggadsense-column .wpteam-ggadsense-light-column-block {
+      background: #fff; }
+    .wpteam-ggadsense-column-section .wpteam-ggadsense-column .wpteam-ggadsense-dark-column-block {
+      background: #fff;
+      border-top: 6px solid #54687d;
+      border-top-right-radius: 0;
+      border-top-left-radius: 0; }
+    .wpteam-ggadsense-column-section .wpteam-ggadsense-column .form-table th {
+      width: 300px; }
+    .wpteam-ggadsense-column-section .wpteam-ggadsense-column:last-child {
+      margin-right: 0; }
+    .wpteam-ggadsense-column-section .wpteam-ggadsense-column.wpteam-ggadsense-column-side {
+      flex: 0 1 400px; }
+  .wpteam-ggadsense-column-section .wpteam-ggadsense-img-400px {
+    max-width: 400px;
+    width: 400px; }
+  .wpteam-ggadsense-column-section fieldset {
+    padding: 12px 0; }

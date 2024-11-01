@@ -1,0 +1,82 @@
+{
+  "wpteam-ggadsense": [
+    {
+      "js_header": {
+        "callback": "textarea_callback"
+      }
+    }
+  ],
+  "setup-basic-ads": [
+    {
+      "common_enable": {
+        "callback": "checkbok_callback"
+      },
+      "js_common_before_script": {
+        "callback": "textarea_callback"
+      },
+      "js_common_after_script": {
+        "callback": "textarea_callback"
+      }
+    },
+    {
+      "post_enable": {
+        "callback": "checkbok_callback"
+      },
+      "js_post_before_script": {
+        "callback": "textarea_callback"
+      },
+      "js_post_after_script": {
+        "callback": "textarea_callback"
+      }
+    },
+    {
+      "page_enable": {
+        "callback": "checkbok_callback"
+      },
+      "home_enable": {
+        "callback": "checkbok_callback"
+      },
+      "js_page_before_script": {
+        "callback": "textarea_callback"
+      },
+      "js_page_after_script": {
+        "callback": "textarea_callback"
+      }
+    }
+  ],
+  "setup-wc": [
+    {
+      "product_enable": {
+        "callback": "checkbok_callback"
+      },
+      "js_product_before_script": {
+        "callback": "textarea_callback"
+      },
+      "js_product_after_script": {
+        "callback": "textarea_callback"
+      }
+    },
+    {
+      "cart_enable": {
+        "callback": "checkbok_callback"
+      },
+      "js_cart_before_script": {
+        "callback": "textarea_callback"
+      },
+      "js_cart_after_script": {
+        "callback": "textarea_callback"
+      }
+    },
+    {
+      "checkout_enable": {
+        "callback": "checkbok_callback"
+      },
+      "js_checkout_before_script": {
+        "callback": "textarea_callback"
+      },
+      "js_checkout_after_script": {
+        "callback": "textarea_callback"
+      }
+    }
+  ]
+}
